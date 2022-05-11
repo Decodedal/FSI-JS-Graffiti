@@ -23,5 +23,5 @@ head.style.color = "white"
 
 let ptext = document.querySelector(".dog-description")
 // for (let i = 0; i < ptext.length; i++){
-ptext.style.color = "blue"
+ptext.style.color = "red"
 // }
